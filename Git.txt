@@ -7,3 +7,5 @@ ATUALIZAÇÃO 31/10/2024 Segundo dia da aula de GitHub "14:13"
 
 
 Resumo da aula dia 17/10/2024
+
+Durante a aula no dia 17/10/2024 aprendemos a instalar o GitHub, criar uma conta, configurar nosso perfil no gith e aprendemos a criar um repositorio
