@@ -7,8 +7,9 @@ ATUALIZAÇÃO 31/10/2024 Segundo dia da aula de GitHub "14:13"
 
 Resumo da aula dia 17/10/2024.
 
-Durante a aula no dia 17/10/2024 aprendemos a instalar o GitHub, criar uma conta, configurar nosso perfil no gith e aprendemos a criar um repositório.
+	Durante a aula no dia 17/10/2024 aprendemos a instalar o GitHub, criar uma conta, configurar nosso perfil no gith e aprendemos a criar um repositório.
+	Para instalar o GitHub basta apenas pesquisar no Google ou qualquer navegador o seu nome, também instalamos o GithPash terminal utilizado para utilizar os comandos que são eles:  
+	° Git add . (Serve para adicionarmos nosso arquivo ao repositório)
+	° Git commmit -a -m "  " (Serve para colocarmos uma descrição ou resumo de qual alteração fizemos no nosso código)
+	° Git push (Serve para alocarmos nosso código no nosso arquivo online "GitHub")
 
-Para instalar o GitHub basta apenas pesquisar no Google ou qualquer navegador o seu nome, também instalamos o GithPash terminal utilizado para utilizar os comandos que são eles:  
-Git add . (Serve para adicionarmos nosso arquivo ao repositório)
-Git commmit -a -m "  " (Serve para colocarmos uma descrição ou resumo de qual alteração fizemos no nosso código)
